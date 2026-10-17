@@ -1,6 +1,6 @@
 # Cycle-1-2-Implementation-of-distance-vector-routing-protocol-RIP-Cisco-packet-tracer
 # 🧪 EXPT.NO: 2  
-📅 DATE: *(Insert Date)*
+📅 DATE: 17.10.26
 
 ## 📌 TITLE  
 **Implementation of Distance Vector Routing Protocol (RIP)**
@@ -122,7 +122,8 @@ R 192.168.3.0 [120/1] via 192.168.2.2, FastEthernet0/1
 R 192.168.4.0 [120/1] via 192.168.2.2, FastEthernet0/1
 ```
 ---
-<img width="882" height="687" alt="image" src="https://github.com/user-attachments/assets/cdc69c5a-fd55-4456-8f96-b4d7cbbb0f11" />
+<img width="710" height="600" alt="image" src="https://github.com/user-attachments/assets/35b9311d-69d6-4e97-a175-6e7a9372f540" />
+
 
 ### Expected output on Router1:
 ```
@@ -130,18 +131,21 @@ R 192.168.1.0 [120/1] via 192.168.2.1, FastEthernet0/0
 R 192.168.2.0 [120/1] via 192.168.2.1, FastEthernet0/0
 ```
 ---
-<img width="864" height="839" alt="image" src="https://github.com/user-attachments/assets/d9170e29-0377-4661-83a4-7c3df139bfb4" />
+<img width="728" height="481" alt="image" src="https://github.com/user-attachments/assets/3edce5df-27df-4dca-8e95-6d8675ad9fc7" />
 
 ## 📶 Ping Test Between PCs
 Example: Ping from PC0 to PC3
 C:\> ping 192.168.3.2
 ### Expected result: Successful replies from PC3.
 
+<img width="842" height="511" alt="image" src="https://github.com/user-attachments/assets/83c20fc3-02f9-4f01-b610-368ffa3a4ffc" />
+
 ### Repeat similar tests between other PCs (e.g., PC2 to PC5).
 
 ## 📤 OUTPUT
 ---
-<img width="972" height="487" alt="image" src="https://github.com/user-attachments/assets/dbb66617-e002-49e9-aba7-4051c2831995" />
+<img width="1166" height="887" alt="image" src="https://github.com/user-attachments/assets/0e97ed4b-36b0-4c99-9738-816044a55202" />
+
 
 ## 📝 RESULT
 Thus, the computers in multiple networks using Distance Vector Routing Protocol are successfully connected and the connectivity between them is verified.
